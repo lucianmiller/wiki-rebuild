@@ -17,15 +17,16 @@
   background-color: #d1d1d1;
 }
 
-.green {
-  background-color: #ace3b9;
+.green img {
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 150px; 
 }
 
-.blue {
-  background-color: #ace3db;
-}
-
-img {
+.blue img {
+  float: right;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
